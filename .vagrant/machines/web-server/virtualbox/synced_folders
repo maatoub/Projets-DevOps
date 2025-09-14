@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html/":{"create":true,"guestpath":"/var/www/html","hostpath":"D:/DevOps/Projets/Projet__1_Virtualisation et Automatisation DevOps/projet-infra-simple/website","disabled":false,"__vagrantfile":true},"/home/vagrant/cours":{"create":true,"guestpath":"/home/vagrant/cours","hostpath":"D:/DevOps/Cours","disabled":false,"__vagrantfile":true}}}
