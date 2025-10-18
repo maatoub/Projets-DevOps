@@ -1,0 +1,36 @@
+# Vagrant specific
+.vagrant/
+*.log
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Node modules (if using npm for sass compilation)
+node_modules/
+
+
+# IDE specific
+.vscode/
+.idea/
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# Environment specific
+.env
+*.env.local
+
+# Vagrant boxes
+*.box
+
+# Compiled SASS cache
+.sass-cache/
+*.css.map
+
+# Log files
+*.log
+logs/
+log/
